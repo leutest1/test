@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="099c18b1-4bad-4afc-9671-058637d2a9e7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test1.java" afterPath="$PROJECT_DIR$/src/Test1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test3.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +28,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -37,6 +37,16 @@
                 <element signature="e#106#107#0" expanded="true" />
                 <element signature="e#147#148#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test3.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -427,6 +437,14 @@
             <element signature="e#106#107#0" expanded="true" />
             <element signature="e#147#148#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
