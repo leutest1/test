@@ -1,8 +1,8 @@
 /**
  * Created by MyPC on 24/02/2018.
  */
-public class Test {
+public class Test1 {
     public static void main(String[] args) {
-        System.out.println("abcasd leu duc anh");
+        System.out.println("abc");
     }
 }
